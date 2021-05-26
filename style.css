@@ -8,7 +8,7 @@
  header {
     height: 70px;
     background-color: white;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
     padding: 10px 20px;
 }
 
@@ -20,7 +20,20 @@
 #text-logo{
     vertical-align: middle;
     font-weight: 900;
+    font-size: 50px;
     
 } 
-
-
+.corpo-main{
+    margin: 0 auto;
+    background-color: #F6F8F9;
+    height: 1000px;
+    
+}
+.cotenitore{
+    height: 500px;
+    width: 500px;
+    background-color: #fff;
+    margin:0 auto;
+    margin-top: 20px;
+    
+}
