@@ -47,36 +47,17 @@ header{
 }
 .actions{
     padding:20px 30px;
-}
-/* }
- header {
-    height: 70px;
-    background-color: white;
-    margin-bottom: 20px;
-    padding: 10px 20px;
+    border-bottom: 2px solid;
+    border-color: #f6f8f9;
 }
 
-#logo{ 
-   
-    vertical-align: middle;
+.color-blue{
+    background-color:dodgerblue;
+    color:white;
+    border-color:dodgerblue;  
 }
 
-#text-logo{
-    vertical-align: middle;
-    font-weight: 900;
-    font-size: 50px;
-    
-} 
-.corpo-main{
-    margin: 0 auto;
-    height: 1000px;
-    
+.color-white{
+    background-color:#fff;
+    color: lightgrey;
 }
-.cotenitore{
-    height: 500px;
-    width: 500px;
-    background-color: #fff;
-    margin:0 auto;
-    margin-top: 20px;
-    border-radius: 10px; 
-} */
